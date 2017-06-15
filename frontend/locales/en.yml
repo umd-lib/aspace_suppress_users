@@ -1,0 +1,14 @@
+en:
+  user:
+    is_hidden_user: Deactive Account
+  plugins:
+    aspace_suppress_user:
+      actions:
+        hide_hidden: Hide Inactive Users
+        show_hidden: Show Inactive Users
+        deactivate_user: Deactivate
+        activate_user: Activate
+      messages:
+        activated: User activated
+        deactivated: User deactivated
+        error: There was an error with your request. Please contact system administrator.
